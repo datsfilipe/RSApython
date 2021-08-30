@@ -31,4 +31,6 @@ cd rsa-python
 
 # Type below command and follow the app usage
 python usage.py
+
+# Maybe you will have to use python2 or python3 to run
 ```
