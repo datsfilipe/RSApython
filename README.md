@@ -24,7 +24,7 @@
 
 ```bash
 # Clone the repository
-git clone <https://github.com/datsfilipe/RSApython.git>
+git clone <https://github.com/datsfilipe/rsa-python.git>
 
 # Enter on directory created by git clone command
 cd rsa-python
