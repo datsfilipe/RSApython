@@ -1,13 +1,5 @@
 # RSA KEYGEN
 
-<p align="center">
-  <img width="220" src="./assets/books.svg">
-</p>  
-
-<p style="font-size: 13px" align="center">
-  <a href="https://iconscout.com/icons/books" target="_blank">Books Line Icon</a> by <a href="https://iconscout.com/contributors/unicons" target="_blank">Unicons Font</a>
-</p>
-
 ## Description
 
 <p align="justify">
